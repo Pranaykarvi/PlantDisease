@@ -4,6 +4,7 @@ This project is a machine learning web application utilizing a Convolutional Neu
 
 # Project Structure
 1.Train_Dataset.ipynb: A Jupyter notebook focused on:
+  
     Data preprocessing and exploration
     
     Model training using a CNN for effective feature extraction and classification
@@ -36,6 +37,6 @@ Saving the trained CNN model for predictions in the web application
 # Project Video
 Check out the video for a demonstration of the project.
 
-[![Watch the video](https://youtu.be/LU-vH9mSPc8)
+[![Watch my video](https://img.youtube.com/vi/LU-vH9mSPc8/0.jpg)](https://youtu.be/LU-vH9mSPc8)
 
 

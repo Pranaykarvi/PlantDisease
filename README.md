@@ -23,8 +23,10 @@ This project is a machine learning web application utilizing a Convolutional Neu
 
 # Model Training
 The CNN model is trained on a prepared dataset in Train_Dataset.ipynb, which includes:
-Training and validation phases to assess accuracy and loss
-Saving the trained CNN model for predictions in the web application
+    
+    Training and validation phases to assess accuracy and loss
+
+    Saving the trained CNN model for predictions in the web application
 ![image](https://github.com/user-attachments/assets/75a6a85f-2d95-41a1-bff2-f6bd835ce4cc)
 
 # Home Page

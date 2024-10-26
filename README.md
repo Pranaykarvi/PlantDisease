@@ -36,6 +36,6 @@ Saving the trained CNN model for predictions in the web application
 # Project Video
 Check out the video for a demonstration of the project.
 
-[![Watch the video](https://img.youtube.com/vi/LU-vH9mSPc8/0.jpg)](https://youtu.be/LU-vH9mSPc8)
+[![Watch the video](https://youtu.be/LU-vH9mSPc8)
 
 

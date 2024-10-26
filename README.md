@@ -1,6 +1,6 @@
 # PlantDisease
 Overview
-This project is a machine learning web application utilizing a Convolutional Neural Network (CNN) to make predictions based on user input data. The project includes a Jupyter notebook for training and evaluating the CNN model and a Streamlit-based web application (App.py) for interaction with the model.
+This project is a machine learning web application utilizing a Convolutional Neural Network (CNN) to make predictions based on user input data. The project includes a Jupyter notebook for training and evaluating the CNN model and a Streamlit-based web application for interaction with the model.
 
 # Project Structure
 1.Train_Dataset.ipynb: A Jupyter notebook focused on:

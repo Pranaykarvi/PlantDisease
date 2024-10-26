@@ -2,7 +2,7 @@
 Overview
 This project is a machine learning web application utilizing a Convolutional Neural Network (CNN) to make predictions based on user input data. The project includes a Jupyter notebook for training and evaluating the CNN model and a Streamlit-based web application (App.py) for interaction with the model.
 
-#Project Structure
+# Project Structure
 1.Train_Dataset.ipynb: A Jupyter notebook focused on:
     Data preprocessing and exploration
     Model training using a CNN for effective feature extraction and classification
@@ -29,6 +29,7 @@ Prediction Result
 
 ## Project Video
 Check out the video for a demonstration of the project.
+
 [![Watch the video](https://img.youtube.com/vi/LU-vH9mSPc8/0.jpg)](https://youtu.be/LU-vH9mSPc8)
 
 

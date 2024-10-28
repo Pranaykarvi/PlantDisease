@@ -31,6 +31,12 @@ Check out the video for a demonstration of the project.
 
 [![Watch my video](https://img.youtube.com/vi/LU-vH9mSPc8/0.jpg)](https://youtu.be/LU-vH9mSPc8)
 
+# Technical Details
+- **Framework:** Streamlit, Tensorflow
+- **Model Used:** CNN, XGBoost
+- **Programming Language:** Python
+- **Development Tools:** Jupyter Notebook for initial model development and testing
+
 # License
 This project is licensed under the **GNU General Public License v3.0**. See the LICENSE file for details.
 

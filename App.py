@@ -19,7 +19,7 @@ app_mode = st.sidebar.selectbox("Select Page",["Home","About","Disease Recogniti
 #Main Page
 if(app_mode=="Home"):
     st.header("PLANT DISEASE RECOGNITION SYSTEM")
-    image_path = r"D:\target\ml\PlantDisease\discuss-importance-accurate-plant-disease-d-generative-ai_1198295-120627.jpg"
+    image_path = "discuss-importance-accurate-plant-disease-d-generative-ai_1198295-120627.jpg"
     st.image(image_path,use_column_width=True)
     st.markdown("""
     Welcome to the Plant Disease Recognition System! 🌿🔍

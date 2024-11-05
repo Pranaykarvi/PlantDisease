@@ -36,6 +36,8 @@ Check out the video for a demonstration of the project.
 - **Model Used:** CNN, XGBoost
 - **Programming Language:** Python
 - **Development Tools:** Jupyter Notebook for initial model development and testing
+- 
+[Check out the Plant Disease Prediction App on Streamlit](https://plantdisease-pranaykarvi.streamlit.app/)
 
 # License
 This project is licensed under the **GNU General Public License v3.0**. See the LICENSE file for details.
